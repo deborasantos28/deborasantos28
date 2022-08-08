@@ -13,7 +13,7 @@ Anything unusual and "out of the box" 👽 is amongst my favourite things to wor
 </h5>
 
 <h5>
-💬 I am extremely friendly person, so don't hesitate in contact me about ideas or collaborations. 
+💬 I am an extremely friendly person, so don't hesitate in contacting me about ideas or collaborations. 
 </h5>
 
 <h5>
