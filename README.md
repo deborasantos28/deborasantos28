@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3>My name is Debora Santos 😄 and I've recently graduated as Junior Web Software developer. </h3> 
+<h3>My name is Debora Santos 😄 and I'm a Junior Software Developer. </h3> 
 <h4>I'm incredibly curious about what makes certain things work, which is one of the reasons as to why I got involved into Web Development. 
 Anything unusual and "out of the box" 👽 is amongst my favourite things to work with. Also I get incredibly passionate about working with themes that hold meaning to me </h4>
 
